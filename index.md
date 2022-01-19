@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Har du en drøm om at lære at brygge øl? Jeg udbyder ølbrygning som socialt arrangement i virksomheder, foreninger, … 
 
-You can use the [editor on GitHub](https://github.com/tlkristensen/BrygMedMie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## BrygMedMie
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Øl er ikke bare øl, så hvordan får man lavet den øl, man bedst kan lide? Hvordan kan man tage en opskrift og blot ændre lidt for at få en helt anden smag?
 
-### Markdown
+**BrygMedMie** afholder ølbrygningsworkshops som hyggeaften i små og store virksomheder, foreninger, klubber og andre forsamlinger… Sådan et kursus vil være mere praktisk arbejde end teoretisk foredrag, men I vil komme hjem med viden om hvordan man let kan brygge sin egen øl, hvordan man kan ændre og justere smag og lidt indsigt i kemien bag bryggeprocessen. I bliver desuden introduceret til, hvordan og hvorfor man kan lave etiketter.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mie har en passion for ølbrygning og mange års erfaring som hobbybrygger, men er også et legebarn der gerne eksperimenterer med ingredienserne. Mie underviser i kemi og fysik på Silkeborg Gymnasium.
 
-```markdown
-Syntax highlighted code block
+![Ølbrygningsprocessen](/assets/the-brewing-process.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Pris eksemper
 
-- Bulleted
-- List
+### Workshop (ca. 5 timer) 12-24 personer:
 
-1. Numbered
-2. List
+Kurserne vil som udgangspunkt blive afholdt i virksomhedens/foreningens lokaler, men vi kan også hjælpe med at finde lokaler.
 
-**Bold** and _Italic_ and `Code` text
+- Lidt teori om smag, duft og kemien bag
+- Lidt teori om ølbrygningen; ingredienser, processer og praktisk viden.
+- Ølbrygning i grupper a max 4 personer. I processen vil der være fokus på at koble trin i ølbrygningen med smagen af produktet, man står med 
+- Ølsmagning
+- Fif til at lave etiketter.
+- Hygge, teamwork og socialt samvær
 
-[Link](url) and ![Image](src)
-```
+4 bryg á ca. 25 L, 16 personer fra 650 kr ex. moms pr. person
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Workshoppen kan kombineres med et foredrag fra BeerByMike
 
-### Jekyll Themes
+### Bryg med dine venner
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tlkristensen/BrygMedMie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Kom og bryg med dine venner. Både for nybegyndere og dem, der gerne vil have gode råd til at komme videre i deres hobby. Det er også muligt at lave fadøl til den næste fest. Kurserne forgår som udgangspunkt i BrygMedMies lokaler i Silkeborg
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Begynderkursus 3 personer fra 750 kr pr 
